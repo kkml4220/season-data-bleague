@@ -1,6 +1,8 @@
 # season-data-bleague
 
 ![GitHub](https://img.shields.io/github/license/kkml4220/season-data-bleague)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/kkml4220/season-data-bleague)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/kkml4220/season-data-bleague)
 
 B リーグの試合データを[B リーグ公式サイト](https://www.bleague.jp/)からスクレイピングしたものです
 
@@ -40,4 +42,11 @@ B リーグの試合データを[B リーグ公式サイト](https://www.bleague
 
 - B リーグ公式サイト：<https://www.bleague.jp/>
 
+## Author
 
+- 作成者 : 高橋 克征 (Takahashi Katsuyuki)
+- E-mail : [Takahashi.Katsuyuki.github@gmail.com](Takahashi.Katsuyuki.github@gmail.com)
+
+## License
+
+"season-data-bleague" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
